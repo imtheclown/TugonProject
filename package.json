@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "aos": "^2.3.4",
+    "axios": "^1.4.0",
+    "phosphor-icons": "^1.4.2",
+    "react-icons": "^4.9.0",
+    "react-router-dom": "^6.11.2"
+  }
+}
